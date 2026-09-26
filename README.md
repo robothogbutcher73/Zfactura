@@ -210,4 +210,4 @@ ZFactura is offered as a full free version with all features and updates include
 Take your invoicing to the next level with ZFactura. Download it today and experience the difference!
 
 ---
-**Last updated:** 2026-09-26 01:17:16 UTC
+**Last updated:** 2026-09-26 07:16:07 UTC
